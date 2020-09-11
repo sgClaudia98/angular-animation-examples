@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-animation-examples"
+    }
+  },
+  "defaultProject": "angular-animation-examples",
+  "cli": {
+    "analytics": false
+  }
 }
